@@ -31,7 +31,7 @@
 
   <modules>
     <module>commons</module>
-    <module>n1796</module>
+    <module>sliding_windows</module>
   </modules>
 
   <dependencies>

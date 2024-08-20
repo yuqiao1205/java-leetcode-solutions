@@ -1,4 +1,4 @@
-package com.cgs.study.leetcode.n1796;
+package com.cgs.study.leetcode.n2461;
 
 public class Solution {
 
